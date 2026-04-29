@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## Sobre mim
+Tenho um interesse especial por desenvolvimento backend, pela lógica e pelo raciocínio que essa área exige. Me identifico principalmente com a parte de banco de dados, onde posso estruturar, organizar e dar sentido às informações.
 ## Tecnologias e Ferramentas
 sql python, javascript, html, css, sql, c++, 
 
