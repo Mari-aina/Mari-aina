@@ -17,4 +17,4 @@ sql python, javascript, html, css, sql, c++,
 ## Contatos
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/mariana-rocha-b53381266/)
 [<img src="https://img.icons8.com/color/48/000000/new-post.png" width="30"/>](mailto:Rcosta.mari41@gmail.com)
-[<img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30"/>](https://www.instagram.com/seuusuario)
+[<img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30"/>]([https://www.instagram.com/seuusuario](https://www.instagram.com/mari.aina/))
