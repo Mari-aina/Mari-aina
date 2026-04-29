@@ -13,7 +13,9 @@ sql python, javascript, html, css, sql, c++,
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Mari-aina%20Activity%20Graph&hide_border=true)]
 
 ## Projetos
-
+<p align="center">
+  <img src="./Logo-Branco.png" width="400" />
+</p>
 
 ## Contatos
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/mariana-rocha-b53381266/)
