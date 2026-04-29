@@ -10,3 +10,5 @@ sql python, javascript, html, css, sql, c++,
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mari-aina&theme=dark&border_radius=5)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mari-aina&layout=compact&theme=tokyonight)
 
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)]
+
