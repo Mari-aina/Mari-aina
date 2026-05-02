@@ -53,7 +53,7 @@ Tenho um interesse especial por desenvolvimento backend, pela lógica e pelo rac
 
 ## Estatísticas
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mari-aina&theme=dark&border_radius=5)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mari-aina&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mari-aina&layout=compact&theme=transparent">
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mari-aina&theme=default&custom_title=Mari-aina%20Activity%20Graph&hide_border=true)
 
