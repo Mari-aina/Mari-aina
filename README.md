@@ -1,4 +1,4 @@
-<h2 align='center'> <i>Hello, Folks!</h2>  
+<img src="Captura de tela 2026-05-02 003540.png">
 
 <img align="right" src="https://github.com/Ashutosh00710/github-stats-transparent/blob/output/generated/overview.svg"  width="400">
 
