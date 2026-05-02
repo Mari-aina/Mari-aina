@@ -14,7 +14,7 @@ Tenho um interesse especial por desenvolvimento backend, pela lógica e pelo rac
         <a href="https://www.instagram.com/mari.aina/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.linkedin.com/in/ashutosh-dwivedi-b3025b196"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+        <a href="https://www.email.com/in/ashutosh-dwivedi-b3025b196"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
     </td>
 </tr>
 </table>
