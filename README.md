@@ -1,5 +1,5 @@
 <img src="Captura de tela 2026-05-02 003540.png">
-<h1>Sobre mim</h1>
+<h2>Sobre mim</h2>
 <img align="right" src="https://github.com/Ashutosh00710/github-stats-transparent/blob/output/generated/overview.svg"  width="400">
 Tenho um interesse especial por desenvolvimento backend, pela lógica e pelo raciocínio que essa área exige. Me identifico principalmente com a parte de banco de dados, onde posso estruturar, organizar e dar sentido às informações. 
 <h3 align='center'><i>Social Media Handles</i></h3>
@@ -19,8 +19,6 @@ Tenho um interesse especial por desenvolvimento backend, pela lógica e pelo rac
 </tr>
 </table>
 
-## Sobre mim
-Tenho um interesse especial por desenvolvimento backend, pela lógica e pelo raciocínio que essa área exige. Me identifico principalmente com a parte de banco de dados, onde posso estruturar, organizar e dar sentido às informações.
 ## Tecnologias e Ferramentas
 sql python, javascript, html, css, sql, c++, 
 
