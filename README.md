@@ -54,7 +54,6 @@ Tenho um interesse especial por desenvolvimento backend, pela lógica e pelo rac
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mari-aina&theme=dark&border_radius=5)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mari-aina&layout=compact&theme=transparent">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mari-aina&show_icons=true&theme=transparent" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mari-aina&layout=compact&theme=transparent" />
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mari-aina&theme=default&custom_title=Mari-aina%20Activity%20Graph&hide_border=true)
 
 ## Projetos
