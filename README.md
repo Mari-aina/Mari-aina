@@ -1,7 +1,7 @@
 <img src="Captura de tela 2026-05-02 003540.png">
 
 <img align="right" src="https://github.com/Ashutosh00710/github-stats-transparent/blob/output/generated/overview.svg"  width="400">
-
+## Sobre mim
 Tenho um interesse especial por desenvolvimento backend, pela lógica e pelo raciocínio que essa área exige. Me identifico principalmente com a parte de banco de dados, onde posso estruturar, organizar e dar sentido às informações. 
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
